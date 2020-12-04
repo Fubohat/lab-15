@@ -9,7 +9,6 @@ int Sign(float X) {
 		return (1);
 }
 int main() {
-	setlocale(LC_ALL, "Russian");
 	float X;
 	cout << "X=";
 	cin >> X;
